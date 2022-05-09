@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kodzai
 - 👀 I’m interested in Data Science (Predictive Analytics)
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate with my school projects
 - 📫 How to reach me...email:knyakurimwa@berkeley.edu
 
